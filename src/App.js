@@ -20,7 +20,7 @@ let tl = gsap.timeline({repeat: -1, repeatDelay: 1, yoyo: true})
         height: 100,
         borderRadius:0,
         background: "teal",
-        // margin: 50
+        margin: 50
       }}
     ></div>
   );
